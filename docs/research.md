@@ -7,7 +7,7 @@
 | Member | GitHub username |
 | --- | --- |
 | Jishnu Mukherjee | JishnuMukh |
-| Rajveer (full name to add) | rajveer-r-sharma |
+| Rajveer Sharma | rajveer-r-sharma |
 
 ## Question
 
